@@ -1,0 +1,14 @@
+H:\CODY SHENANIGANS\BEPIN TGP\Bepin Mod Workbench\BenMods\BenMods\obj\Debug\netstandard2.0\BenMods.csproj.AssemblyReference.cache
+H:\CODY SHENANIGANS\BEPIN TGP\Bepin Mod Workbench\BenMods\BenMods\obj\Debug\netstandard2.0\BenMods.GeneratedMSBuildEditorConfig.editorconfig
+H:\CODY SHENANIGANS\BEPIN TGP\Bepin Mod Workbench\BenMods\BenMods\obj\Debug\netstandard2.0\BenMods.AssemblyInfoInputs.cache
+H:\CODY SHENANIGANS\BEPIN TGP\Bepin Mod Workbench\BenMods\BenMods\obj\Debug\netstandard2.0\BenMods.AssemblyInfo.cs
+H:\CODY SHENANIGANS\BEPIN TGP\Bepin Mod Workbench\BenMods\BenMods\obj\Debug\netstandard2.0\BenMods.csproj.CoreCompileInputs.cache
+H:\CODY SHENANIGANS\BEPIN TGP\Bepin Mod Workbench\BenMods\BenMods\bin\Debug\netstandard2.0\BenMods.deps.json
+H:\CODY SHENANIGANS\BEPIN TGP\Bepin Mod Workbench\BenMods\BenMods\bin\Debug\netstandard2.0\BenMods.dll
+H:\CODY SHENANIGANS\BEPIN TGP\Bepin Mod Workbench\BenMods\BenMods\bin\Debug\netstandard2.0\BenMods.pdb
+H:\CODY SHENANIGANS\BEPIN TGP\Bepin Mod Workbench\BenMods\BenMods\bin\Debug\netstandard2.0\BepInEx.dll
+H:\CODY SHENANIGANS\BEPIN TGP\Bepin Mod Workbench\BenMods\BenMods\bin\Debug\netstandard2.0\UnityEngine.CoreModule.dll
+H:\CODY SHENANIGANS\BEPIN TGP\Bepin Mod Workbench\BenMods\BenMods\bin\Debug\netstandard2.0\BepInEx.xml
+H:\CODY SHENANIGANS\BEPIN TGP\Bepin Mod Workbench\BenMods\BenMods\obj\Debug\netstandard2.0\BenMods.csproj.CopyComplete
+H:\CODY SHENANIGANS\BEPIN TGP\Bepin Mod Workbench\BenMods\BenMods\obj\Debug\netstandard2.0\BenMods.dll
+H:\CODY SHENANIGANS\BEPIN TGP\Bepin Mod Workbench\BenMods\BenMods\obj\Debug\netstandard2.0\BenMods.pdb

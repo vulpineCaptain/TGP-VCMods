@@ -1,0 +1,67 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+  <!-- Core Modules -->
+    <Reference Include="BepInEx">
+      <HintPath>H:\CODY SHENANIGANS\BEPIN TGP\The Genesis Project\BepInEx\core\BepInEx.dll</HintPath>
+    </Reference>
+
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>H:\CODY SHENANIGANS\BEPIN TGP\The Genesis Project\The Genesis Project_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+
+    <Reference Include="UnityEngine">
+      <HintPath>H:\CODY SHENANIGANS\BEPIN TGP\The Genesis Project\The Genesis Project_Data\Managed\UnityEngine.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+
+  <!-- Harmony's patching API -->
+
+    <Reference Include="0Harmony"> 
+      <HintPath>H:\CODY SHENANIGANS\BEPIN TGP\The Genesis Project\BepInEx\core\0Harmony.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+
+  <!-- reference TGP's Classes -->
+  
+    <Reference Include="Assembly-CSharp"> 
+      <HintPath>H:\CODY SHENANIGANS\BEPIN TGP\The Genesis Project\The Genesis Project_Data\Managed\Assembly-CSharp.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+
+  <!-- provides the legacy keyboard input API -->
+
+    <Reference Include="UnityEngine.InputLegacyModule"> 
+      <HintPath>H:\CODY SHENANIGANS\BEPIN TGP\The Genesis Project\The Genesis Project_Data\Managed\UnityEngine.InputLegacyModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+
+  <!-- Unity UI Reference -->
+    <Reference Include="UnityEngine.UI">
+      <HintPath>H:\CODY SHENANIGANS\BEPIN TGP\The Genesis Project\The Genesis Project_Data\Managed\UnityEngine.UI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  <!-- Unity Text Rendering Reference -->
+    <Reference Include="UnityEngine.UI">
+      <HintPath>H:\CODY SHENANIGANS\BEPIN TGP\The Genesis Project\The Genesis Project_Data\Managed\UnityEngine.TextRenderingModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+
+    <Reference Include="Mirror">
+      <HintPath>H:\CODY SHENANIGANS\BEPIN TGP\The Genesis Project\The Genesis Project_Data\Managed\Mirror.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+
+    <Reference Include="TheGenesisLib">
+      <HintPath>H:\CODY SHENANIGANS\BEPIN TGP\The Genesis Project\The Genesis Project_Data\Managed\TheGenesisLib.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+
+  </ItemGroup>
+
+</Project>

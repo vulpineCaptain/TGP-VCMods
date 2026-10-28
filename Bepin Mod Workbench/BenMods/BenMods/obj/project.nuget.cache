@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QyNUdnQv3A5N6tZO/xsKJlbO+VOU547cuBXePe0peHbuDWvpsNx4YzrHjLfXjCXBlix3rpbOvnBQZmCQ2+RkDg==",
+  "success": true,
+  "projectFilePath": "H:\\CODY SHENANIGANS\\BEPIN TGP\\Bepin Mod Workbench\\BenMods\\BenMods\\BenMods.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vulpi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\vulpi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
